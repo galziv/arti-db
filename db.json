@@ -1,19 +1,19 @@
 {
-	articles1: [{
-			publisher: 'walla',
-			url: 'http://walla.co.il',
-			image: '//img.wcdn.co.il/f_auto,w_300,t_54/2/5/3/3/2533467-46.jpg',
-			selected: false
+	"articles1": [{
+			"publisher": 'walla',
+			"url": 'http://walla.co.il',
+			"image": '//img.wcdn.co.il/f_auto,w_300,t_54/2/5/3/3/2533467-46.jpg',
+			"selected": false
 		}, {
-			publisher: 'mako',
-			url: 'http://mako.co.il',
-			image: '//img.mako.co.il/2017/12/26/943459_C.jpg',
-			selected: false
+			"publisher": 'mako',
+			"url": 'http://mako.co.il',
+			"image": '//img.mako.co.il/2017/12/26/943459_C.jpg',
+			"selected": false
 		}, {
-			publisher: 'reshet',
-			url: 'http://reshet.co.il',
-			image: 'https://media.reshet.tv/image/upload/t_grid-item-large,f_auto,q_auto/v1514238563/M132906.sub_.07-1_fwnpqr.jpg',
-			selected: false
+			"publisher": 'reshet',
+			"url": 'http://reshet.co.il',
+			"image": 'https://media.reshet.tv/image/upload/t_grid-item-large,f_auto,q_auto/v1514238563/M132906.sub_.07-1_fwnpqr.jpg',
+			"selected": false
 		}
 	]
 }
